@@ -8,6 +8,7 @@ const partialsPath = path.join(__dirname, '../templates/partials')
     //const publicDirectoryPath = path.join(__dirname, '../public')
 
 
+//test git
 app.set('views', viewsPath)
 app.set('view engine', 'hbs')
 
